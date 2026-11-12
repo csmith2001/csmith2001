@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/13c2556d-7b32-46f5-8a2f-c7b850c49e8c.jpeg?v=1794461394)](https://www.boot.dev/certificates/13c2556d-7b32-46f5-8a2f-c7b850c49e8c)
+
 <!--
 **csmith2001/csmith2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
