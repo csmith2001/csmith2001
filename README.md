@@ -4,6 +4,8 @@
 
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/474d3903-9ffb-44d8-92d9-7faa8b9427ce.jpeg?v=1794466326)](https://www.boot.dev/certificates/474d3903-9ffb-44d8-92d9-7faa8b9427ce)
 
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/19105ad7-6c69-47a2-b88f-987f1fef362f.jpeg?v=1794529992)](https://www.boot.dev/certificates/19105ad7-6c69-47a2-b88f-987f1fef362f)
+
 <!--
 **csmith2001/csmith2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
